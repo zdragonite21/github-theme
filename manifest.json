@@ -1,0 +1,8 @@
+{
+   "name": "github",
+   "version": "0.1.0",
+   "minAppVersion": "1.1.8",
+   "author": "Zachary Leong",
+//    "fundingUrl": "https://ko-fi.com/yourname",
+   "authorUrl": "https://github.com/zdragonite21"
+}
